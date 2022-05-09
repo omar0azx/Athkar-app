@@ -13,6 +13,9 @@
 		4EB33C3727089A4E00E2D5D1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4EB33C3527089A4E00E2D5D1 /* Main.storyboard */; };
 		4EB33C3927089A4F00E2D5D1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4EB33C3827089A4F00E2D5D1 /* Assets.xcassets */; };
 		4EB33C3C27089A4F00E2D5D1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4EB33C3A27089A4F00E2D5D1 /* LaunchScreen.storyboard */; };
+		4EB33C4427089B0E00E2D5D1 /* DhikerBank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB33C4327089B0E00E2D5D1 /* DhikerBank.swift */; };
+		4EB33C462708D52000E2D5D1 /* MyExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB33C452708D52000E2D5D1 /* MyExtension.swift */; };
+		4EB33C48270A38C500E2D5D1 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB33C47270A38C500E2D5D1 /* CollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		4EB33C3827089A4F00E2D5D1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4EB33C3B27089A4F00E2D5D1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4EB33C3D27089A4F00E2D5D1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4EB33C4327089B0E00E2D5D1 /* DhikerBank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DhikerBank.swift; sourceTree = "<group>"; };
+		4EB33C452708D52000E2D5D1 /* MyExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyExtension.swift; sourceTree = "<group>"; };
+		4EB33C47270A38C500E2D5D1 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +65,10 @@
 				4EB33C2F27089A4E00E2D5D1 /* AppDelegate.swift */,
 				4EB33C3127089A4E00E2D5D1 /* SceneDelegate.swift */,
 				4EB33C3327089A4E00E2D5D1 /* ViewController.swift */,
+				4EB33C4327089B0E00E2D5D1 /* DhikerBank.swift */,
 				4EB33C3527089A4E00E2D5D1 /* Main.storyboard */,
+				4EB33C47270A38C500E2D5D1 /* CollectionViewCell.swift */,
+				4EB33C452708D52000E2D5D1 /* MyExtension.swift */,
 				4EB33C3827089A4F00E2D5D1 /* Assets.xcassets */,
 				4EB33C3A27089A4F00E2D5D1 /* LaunchScreen.storyboard */,
 				4EB33C3D27089A4F00E2D5D1 /* Info.plist */,
@@ -139,6 +148,9 @@
 			files = (
 				4EB33C3427089A4E00E2D5D1 /* ViewController.swift in Sources */,
 				4EB33C3027089A4E00E2D5D1 /* AppDelegate.swift in Sources */,
+				4EB33C48270A38C500E2D5D1 /* CollectionViewCell.swift in Sources */,
+				4EB33C462708D52000E2D5D1 /* MyExtension.swift in Sources */,
+				4EB33C4427089B0E00E2D5D1 /* DhikerBank.swift in Sources */,
 				4EB33C3227089A4E00E2D5D1 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
